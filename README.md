@@ -20,9 +20,3 @@ Download yolov9 weigths and place in your Flask app code directory.
 Once you're in the directory containing your webapp.py file, run the following command:
 <b>python webapp.py </b>
 
-Following these steps should launch your Flask web application, allowing you to access it through a web browser or any other HTTP client.
-
-#### Check this video to understand the code: https://youtu.be/ObKSM6ftQ4c
-
-![home](https://github.com/AarohiSingla/Object-Detection-Web-Application-with-Flask-and-YOLOv9/assets/60029146/d1c5eb0f-3b62-41a1-8305-bd76005e0cd9)
-# Flask-app-for-object-detection
